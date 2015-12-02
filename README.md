@@ -1,7 +1,7 @@
 ----------
 # strongloop-playground #
 
-Playground for strongloop projects
+Playground for strongloop projects and related stuff
 
 ## Introduction ##
 
