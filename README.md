@@ -9,9 +9,9 @@ Actually, this is going to be a playground for `JavaScript`, `node.js`, *StrongL
 
 ## More to come ##
 
-- more
-- more
-- more
+- How does GIT work in my setup?
+- How to setup a node project in GIT?
+- How to continuously integrate?
 ...
 
 Matthias Kloppmann
